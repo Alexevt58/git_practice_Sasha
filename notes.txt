@@ -1,4 +1,4 @@
-Line 2: learning git basics
+Line 2: learning git basics - edited by Sasha
 Line 3: commit from VS code
 Line 4: practicing push after each commit
 Line 5: change from branch Sasha
