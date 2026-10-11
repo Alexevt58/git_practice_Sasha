@@ -1,1 +1,2 @@
 Line 2: learning git basics
+Line 3: commit from VS code
